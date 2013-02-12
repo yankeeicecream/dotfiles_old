@@ -4,3 +4,4 @@ bindkey "^f" forward-word
 bindkey "^[f" kill-word
 bindkey "^[^[[C" kill-word
 bindkey "^[^[[D" backward-kill-word
+bindkey "^[[3~"  kill-word
